@@ -1,1 +1,9 @@
 /script/
+.idea
+data
+promt*
+configs/config.yaml
+.env
+test-data
+frontend/node_modules
+frontend/dist
